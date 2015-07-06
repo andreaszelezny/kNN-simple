@@ -1,5 +1,5 @@
 # kNN-simple
-Very simple k-Nearest-Neighbor (i.e., 1NN) for digit recognition. Created in an F# dojo.
+k-Nearest-Neighbor where k=1 (i.e., 1NN) for digit recognition. Created in an F# dojo.
 
 This F# dojo is directly inspired by the 
 Digit Recognizer competition from Kaggle.com:
